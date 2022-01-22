@@ -4,7 +4,7 @@ description: Official DeFi Kingdoms Whitepaper, last updated Dec 29, 2021
 
 # Defi Kingdoms
 
-![Join us in the Kingdoms!](.gitbook/assets/docsgraphic.png)
+![Join us in the Kingdoms!](https://raw.githubusercontent.com/23brbrbr23/.gitbook/assets/docsgraphic.png)
 
 ## Introduction
 
